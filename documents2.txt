@@ -1,2 +1,3 @@
-2
+This is B's project.
 update
+2
